@@ -1,618 +1,399 @@
-*allegory
-**/ˈæləɡəri/
+*implication
+** /ˌɪmplɪˈkeɪʃn/
 ==================
 NOUN.
-1. 寓言
-2. 寓言故事
-3. 寓意
+1. 意藴
+2. 藴涵
+3. 含義
+4. 涵義
+5. 寓意
+6. 啓示
+7. 含意
+8. 意義
+9. 內涵
+10. 暗示
 ==================
-1. Mrs Malaprop said, “He’s as headstrong as an allegory on the banks of the Nile.”
-2. More affected by Cabbalic and Hermetic studies than Mede, he too uses allegory in his exposition of the Scriptures, and in teaching constantly quotes the prophetic books.
-3. In the Fairy Queen, allegory is wrought upon chivalry, and the feats and figments of Arthur’s round table are moralised.
+1. The implication is that the Gandhian model of growth is possible, now that Nehru's investment strategy had already laid a strong foundation for economic growth.
+2. We use "coprophagy" as the simplest available general term to describe ingestion of the feces, without any implication of cause, circumstances, or the origin or nature of fecal material consumed.
+3. Gradually the implication of biblical monotheism created an entailment of singularity and monogamy in sexual relations.
 
 
-*annex
-**/ˈæneks/
+*in line with
+**/NON/
 ==================
-NOUN.
-1. 附件
-2. 附錄
-3. 兼併
-4. 附表
-VERB.
-1. 吞併
+1. 符合
+2. 與...一致
 ==================
-1. Under Edward the Second, the Commons began to annex petitions to the bills by which they granted subsidies
-2. to annex a penalty to a prohibition, or punishment to guilt
-3. Next to sorrow still I may annex such accidents as procure fear
-4. for besides those terrors which I have before touched, […] there is a superstitious fear […] which much trouble many of us.
+NON
 
 
-*applicable
-**/əˈplɪkəbl/
-==================
-ADJ.
-1. 適用
-2. 適
-3. 實用
-4. 適合
-==================
-1. This rule is not applicable to the longer-standing members of the club.
-2. An advice issued by a Monitoring Committee could be applicable in a Dutch court
-3. the question arises, whether an advice issued by a Monitoring Committee would actually be applicable in a Dutch court
-
-
-*appropriately
-**/əˈprəʊpriətli/
+*indefinitely
+**/ɪnˈdefɪnətli/
 ==================
 ADV.
-1. 適當
-2. 得體
-3. 恰當
-4. 妥善
-5. 貼切
-6. 適度
-7. 得當
+1. 無限期
+2. 無限期地
+3. 無止境
+4. 無限
+5. 無限制
+6. 説不定
 ==================
-1. On the way out of the building I was asked for my autograph. If I'd known who the signature hound thought I was, I would've signed appropriately.
-2. Their fellow diners, like their ketchupped grub, were appropriately dashed and splattered with paint and plaster, reading their Suns and Daily Mirror.
-3. Good will is also secured by plussing the original purchase with another article that goes appropriately with it.
+1. an indefinitely determined fossil
+2. Latex paint won't keep indefinitely.
 
 
-*bluff
-**/blʌf/
+*inference
+**/ˈɪnfərəns/
 ==================
 NOUN.
-1. 虛張聲勢
-2. 鈍
-3. 詐唬
-4. 嚇唬
-5. 懸崖
-6. 崖
-7. 攤牌
+1. 推理
+2. 推斷
+3. 推論
+4. 推導
+5. 推定
+6. 論斷
 ==================
-1. That is only bluff, or a bluff.
-2. John's bet was a bluff: he bet without even so much as a pair.
-3. BLUFF OR POKER [title of a chapter]
+1. Spector (2006, 2007) suggests to derive this inference as a scalar implicature.
+2. The Indians, making a hasty inference from a trivial phenomenon, arrived unawares at a probably correct conclusion.
+3. If there be no prospect beyond the grave, the inference is certainly right, "Let us eat and drink, for to-morrow we die."
 
 
-*burmese
-**/bɜːˈmiːz/
+*materialism
+**/məˈtɪəriəlɪzəm/
 ==================
 NOUN.
-1. 緬甸
-2. 緬
+1. 唯物主義
+2. 唯物論
+3. 唯物史觀
+4. 唯物
+5. 拜金主義
 ==================
+1. As with Deism and Materialism, the German Rationalism invaded the department of Biblical exegesis.
+2. What is called spiritualism should, I think, be called a mental species of materialism.
+3. […] is it not melancholy to hear a man like Steffens somniloquise in such a mystifying cant of Hylozoism, of Pickism, a hodge-podge of the grossest materialism, and the most fantastic yet maudlin moonery?
 
 
+*monarchy
+**/ˈmɒnəki/
+==================
+NOUN.
+1. 君主制
+2. 君主政體
+3. 帝制
+4. 君主
+==================
+1. An absolute monarchy is a monarchy where the monarch is legally the ultimate authority in all temporal matters.
+2. The arms of Upland were a "golden apple," or globe, surrounded with a belt, in allusion to the monarchy.
+3. In ſhort, the Rebellion had been Cruſh'd in the Egg
+4. and One Seaſonable Act of Rigour, had Sav'd the King, the Monarchy, the Church, and the Three Kingdoms.
 
-*canvass
-**/ˈkænvəs/
+
+*negation
+**/nɪˈɡeɪʃn/
+==================
+NOUN.
+1. 否定
+2. 否定之否定
+==================
+1. Negation is a unary operation.
+2. You get the negation of a proposition if you insert "not" (or some equivalent expression) into it in such a way as to form a contradictory of it.
+3. This negation has sometimes been no less “annihilationist” than classical anti-Semitism, because, at least potentially, it serves to justify the elimination of the State of Israel.
+
+
+*nuance
+**/ˈnjuːɑːns/
+==================
+NOUN.
+1. 細微差別
+2. 細微之處
+3. 細微
+==================
+1. Even with the nuance, the vote was a momentous step for a church that has been mired in intrafactional warfare over homosexuality for more than a decade.
+2. If we look at it in this way, the requirement of red-handedness sinks somewhat into the background, and the expression acquires a rather different nuance: furtum manifestum means a clearly-proven theft.
+3. When it came to food, Melissa preferred subtle nuance and lighthanded seasoning.
+
+
+*part_and_parcel
+**/NON/
+==================
+PHRASE
+1. . 不可或缺的一部分
+==================
+1. NON
+
+
+*particularity
+**/pəˌtɪkjəˈlærəti/
+==================
+NOUN.
+1. 特殊性
+2. 特質
+==================
+1. Donny’s obsession for trains is just a harmless particularity of his.
+2. The one thing left to serve as the cause of its particularity is the fact of its yonderness, i. e., the fact that it has a particular spatial and temporal meaning.
+3. This "particularity" is not absolute, and it must be a temporarily "footing."
+
+
+*permeate
+**/ˈpɜːmieɪt/
 ==================
 VERB.
-1. 遊説
-2. 排查
+1. 滲透
+2. 滲入
 ==================
-1. The one thing considered the brass ring in selling insurance was making a sale on a cold canvass. Cold canvassing was the most dreaded exercise for most insurance salesmen.
-2. Uplong the slipp'ry Masts the Yards ascend, / And stretch'd abroad the Canvass wings extend.
-3. If it changes a lot, wow, its relaxed to canvass.
+1. Hence the vapor, so useful in expanding the compressed tissues and enabling the air to permeate and expand the contracted parenchyma in consumption, causes a sensation of great fatigue in asthma.
+2. For Groddeck, the it is given, unknowable, and he does not try to conceptualize drives or forces. Early life and sexuality permeate […]
+3. "Pick up your toys" takes a parental blowhorn to permeate the brain of a young child.
 
 
-*clang
-**/klæŋ/
-==================
-NOUN.
-1. 鐺
-2. 鏗鏘
-==================
-1. Hangs is a false word, — a Northern corruption of the negro dialect yang, — an onomatopœian word, representing the "far heard clang" of the wild goose.
-2. Bang, bang, Maxwell's silver hammer
-Came down upon her head
-Clang, clang, Maxwell's silver hammer
-Made sure that she was dead
-3. I see the Crusaders' tumultuous armies—hark, how the cymbals clang ...
-
-
-*closure
-**/ˈkləʊʒə(r)/
-==================
-NOUN.
-1. 閉包
-2. 封閉
-3. 關閉
-4. 閉合
-5. 截流
-6. 合龍
-7. 封
-8. 收尾
-9. 倒閉
-==================
-1. 7 THEOREM The closure of any set is the union of the set and the set of its accumulation points.
-2. the closure of a door, or of a chink
-3. The closure of Hammersmith Bridge means road traffic has to use Chiswick and Putney Bridges instead.
-
-
-*conceive
-**/kənˈsiːv/
-==================
-VERB.
-1. 受孕
-2. 設想
-3. 懷孕
-4. 想象
-5. 構思
-6. 懷
-7. 想像
-NOUN.
-1. 構想
-==================
-1. Assisted procreation can help those trying to conceive.
-2. Can you conceive of him as a leader?
-3. for that is the fume of those, that conceive the celestial bodies have more accurate influences upon these things below, than indeed they have
-
-
-*congestion
-**/kənˈdʒestʃən/
-==================
-NOUN.
-1. 擁塞
-2. 擠塞
-3. 擠塞情況
-4. 擁堵
-5. 充血
-6. 擁擠
-7. 阻塞
-8. 淤血
-9. 堵塞
-10. 瘀血
-==================
-1. network congestion
-2. arterial congestion
-3. venous congestion
-
-
-*degrade
-**/dɪˈɡreɪd/
-==================
-VERB.
-1. 降解
-2. 貶低
-3. 降低
-NOUN.
-1. 降級
-2. 退化
-==================
-1. When executing bone scan protocols, it is well for one to be aware of how key deviations from optimal technique can degrade image quality.
-2. As Sallas immediately said, the 130 scabs who so easily replaced the striking printers in '85 won't be foisted upon the union--to degrade it and possibly decertify it.
-3. The Swiftboat strategy aims at hitting the target at his/her perceived area of strength, to discredit and degrade what would have been a political advantage.
-
-
-*diesel
-**/ˈdiːzl/
-==================
-NOUN.
-1. 柴油
-2. 柴油機
-3. 柴
-==================
-1. Thumbed a diesel down, outside a cafe.
-2. Bobby thumbed a diesel down, just before it rained.
-3. Yeah MB still does make inline sixes just low volumes (mainly for
-Daewoo). Apart from the Diesel engines they build for trucks and buses.
-
-
-*ecstasy
-**/ˈekstəsi/
-==================
-NOUN.
-1. 狂喜
-2. 搖頭丸
-3. 忘我
-4. 心醉神迷
-5. 入迷
-6. 極樂
-7. 欣喜若狂
-8. 欣喜
-==================
-1. What! are you dreaming, Son! with Eyes cast upwards / Like a mad Prophet in an Ecstasy?
-2. The instant I drew out my case of instruments, the lady roused herself from her ecstasy, and has never had a similar attack.
-3. In ecstasy the mind is absorbed with some fixed idea, generally of a religious character, and the patient becomes oblivious of surrounding events and objects.
-
-
-*explicit
-**/ɪkˈsplɪsɪt/
+*plausible
+**/ˈplɔːzəbl/
 ==================
 ADJ.
-1. 顯式
-2. 明確
-3. 顯性
-4. 露骨
-5. 顯
-6. 明晰
-7. 清晰
+1. 似是而非
+2. 可信
+3. 合理
+4. 花言巧語
+5. 有理
+6. 合乎情理
+7. 似然
 ==================
-1. Coordinate term: simile (when the similarity is made explicit by the words like or as)
-2. I gave explicit instructions for him to stay here, but he followed me, anyway.
-3. The film had several scenes including explicit language and sex.
+1. a plausible excuse
+2. a plausible pretext
+3. plausible manners
+4. a plausible delusion
+5. […] a coachman named Richard, who was described as a "sensible, well-behaved yellow boy, who is plausible and can read and write."
 
 
-*facilitate
-**/fəˈsɪlɪteɪt/
-==================
-VERB.
-1. 方便
-2. 促進
-3. 便於
-4. 便利
-5. 協助
-6. 以便
-7. 推動
-8. 有利於
-9. 助
-==================
-1. It is said to have been labyrinthed by secret exits and cunning contrivances to facilitate the escape of fugitives from the law.
-2. Early in the year the raws were melted to about 20 Brix in order to facilitate filtration.
-3. In order to facilitate taking by the patient, powders are often ordered to be dispensed in cachets.
-
-
-*floorplan
-**flˈɔːplən
-==================
-1. X. 平[樓]面佈置圖
-==================
-
-
-
-*hatch
-**/hætʃ/
+*postulate
+**/ˈpɒstʃəleɪt/
 ==================
 NOUN.
-1. 艙口
-2. 孵化
-3. 哈奇
-4. 艙門
-5. 艙口蓋
-6. 艙蓋
-7. 艙
-VERB.
-1. 孵
+1. 公設
+2. 假設
 ==================
-1. The cook passed the dishes through the serving hatch.
-2. A service hatch with sliding shutter is situated at the end of the kitchen next to the dining compartment.
-3. These pullets are from an April hatch.
+1. [T]he attempt to arrive at a physical explanation of existence led the Ionian thinkers to postulate various primal elements or simply the infinite τὸ ἀπειρον.
+2. Other studies postulate that dogs practice coprophagy in an attempt to conserve digestive enzymes, in particular protelytic enzymes and amylase (McCuistion, 1966).
+3. Some postulate that after a nuclear war, humanity would fall into a state of barbarianism.
 
 
-*hazard
-**/ˈhæzəd/
-==================
-NOUN.
-1. 危害
-2. 災害
-3. 危險
-4. 危險性
-5. 風險
-6. 隱患
-7. 危害性
-8. 害
-==================
-1. He encountered the enemy at the hazard of his reputation and life.
-2. Men are led on from one stage of life to another in a condition of the utmost hazard.
-3. Why, now, blow wind, swell billow, and swim bark! The storm is up and all is on the hazard.
-
-
-*hover
-**/ˈhɒvə(r)/
-==================
-NOUN.
-1. 懸停
-2. 翱翔
-3. 徘徊
-4. 氣墊
-5. 懸浮
-6. 縈繞
-VERB.
-1. 鼠標懸停
-2. 盤旋
-==================
-1. A tooltip appears when you hover over this link.
-2. Without the Chop Chop Chop Chop Cowville seems almost normal: no hover of helicopters, no leap of leopards.
-3. Up on the downs the red-eyed kestrels hover,
-Eyeing the grass.
-The field mouse flits like a shadow into cover
-As their shadows pass.
-
-
-*intact
-**/ɪnˈtækt/
+*profound
+**/prəˈfaʊnd/
 ==================
 ADJ.
-1. 完好無損
-2. 完好
-3. 完整
-4. 完整無缺
-5. 完好無缺
-6. 原狀
-7. 原封不動
-8. 原封
-9. 保存完好
-10. 完整性
+1. 深刻
+2. 深遠
+3. 深厚
+4. 博大精深
+5. 淵博
+6. 深邃
+7. 意義深遠
+8. 深奧
+9. 深層次
+10. 深入
+11. 深層
 ==================
-1. I packed my belongings carefully so that they would survive the move intact.
-2. She hadn't been... molested? No, no, nothing like that. I have examined her. She is quite intact.
-3. an intact bull
+1. a profound investigation
+2. a profound scholar
+3. profound wisdom
 
 
-*intricacy
-**/ˈɪntrɪkəsi/
-==================
-NOUN.
-1. 複雜性
-==================
-1. the intricacy of a knot
-2. the intricacy of accounts
-3. the intricacy of a cause in controversy
-
-
-*lobby
-**/ˈlɒbi/
+*proposition
+**/ˌprɒpəˈzɪʃn/
 ==================
 NOUN.
-1. 大堂
-2. 大廳
-3. 遊説團體
-4. 遊説團
-5. 遊説集團
-6. 門廳
-7. 休息室
-8. 門廊
+1. 命題
+2. 主張
+3. 提議
+4. 論題
+5. 構想
+==================
+1. For example, one-part versions of the proposition "The doctor pursued the lawyer" were "The doctor verbed the object," ...
+2. Our English nouns remain unchanged, whether they form the subject or the object of a proposition.
+3. “Wiktionary is a good dictionary” is a proposition.
+
+
+*protract
+**/prəˈtrækt/
+==================
+NOUN.
+1. 繪製
+==================
+1. A cat can protract and retract its claws.
+2. to protract a decision or duty
+3. Then, since I’m sure to meet my Fate,
+How vain would Hope appear?
+Since Fear cannot protract the Date,
+How foolish ’twere to fear?
+
+
+*redundant
+**/rɪˈdʌndənt/
+==================
+ADJ.
+1. 冗餘
+2. 多餘
+3. 重複
+4. 超額
+NOUN.
+1. 冗餘度
+2. 冗
+3. 累贅
+==================
+1. In the living state, the body is observed to receive aliment
+2. to assimilate a part
+3. to evacuate what is redundant or useless
+4. …
+5. Four employees were made redundant.
+6. The two lines are mainly used for redundant and therefore fault-tolerant message transmission, but they can also transmit different messages.
+
+
+*refurbish
+**/ˌriːˈfɜːbɪʃ/
+==================
+1. X. 再磨光
+2. 刷新
+==================
+1. An RPS is a network of transportation logistics and processing functions that collect, recycle, refurbish, and demanufacture end-of-life products.
+2. Early firees Bradford and Stacie J. returned, and the teams competed to see which could refurbish a house better to improve its value on the market.
+3. The Highways Agency plan to close J10 of the M5 to refurbish the motorway bridge.
+
+
+*render
+**/ˈrendə(r)/
+==================
+NOUN.
+1. 渲染
 VERB.
-1. 遊説
+1. 呈現
 ==================
-1. I had to wait in the lobby for hours before seeing the doctor.
-2. The influence of the tobacco lobby has decreased considerably in the US.
-3. For years, pro-life groups have continued to lobby hard for restrictions on abortion.
+1. we may, at last, render our philosophy like that of Epictetus
+2. to render Latin into English
+3. render a verdict (i.e., deliver a judgment)
 
 
-*lotus
-**/ˈləʊtəs/
-==================
-NOUN.
-1. 蓮花
-2. 荷花
-3. 蓮
-4. 芙蓉
-5. 阿蓮
-6. 荷
-7. 蓮藕
-8. 藕
-9. 蓮子
-10. 荷葉
-==================
-1. 2007, Tim Speed, Brad Schauf, Dick McCarrick, Lotus Notes Domino 8: Upgrader's Guide:
-2. I told him how much I'd liked my fish course, a black sea bass fillet with pickled lotus root and huitlacoche sauce […]
-3. The visit to Pushkar is, however, a little more than the obligatory obeisance done at the site where Brahma carelessly dropped a lotus blossom as he was wondering where to perform a yagnya.
-
-
-*macaque
-**/məˈkæk/
+*repository
+**/rɪˈpɒzətri/
 ==================
 NOUN.
-1. 獼猴
-2. 猴
+1. 存儲庫
+2. 儲存庫
+3. 知識庫
+4. 庫
+5. 倉庫
+6. 信息庫
+7. 資料庫
 ==================
-1. Other antigen positive tissues common to both the hemorrhagic variola macaque model and the MPXV marmoset models include epithelial, testicular, adrenocortical, and hepatic, as well as endothelial cell immunopositivity.
-2. Additionally, DNA of following species not covered by the assay was tested to exclude cross-reactivity: macaque, budgerigar, pogona, and carp.
-3. Experiments in the macaque show that eye movement speed can be >20% higher when the target is rewarded compared with nonrewarded (Bendiksby and Platt 2006).
+1. Any number of people can be reading from a given repository at a time.
+2. This simulation aims at describing the hydrological conditions at a Swedish deep repository of nuclear waste during a glaciation.
+3. In this model, anyone can fork an existing repository and push changes to their personal fork.
 
 
-*magnify
-**/ˈmæɡnɪfaɪ/
-==================
-VERB.
-1. 放大
-2. 擴大化
-3. 誇大
-ADV.
-1. 氣勢
-==================
-1. St. Paul chose to magnify his office when ill men conspired to lessen it.
-2. Our burning-glass also now became a great treasure, as it enabled me to magnify, and so perceive more clearly […].
-3. magnify something a billionfold
-
-
-*maniac
-**/ˈmeɪniæk/
+*sake
+**/seɪk/
 ==================
 NOUN.
-1. 瘋子
-2. 狂
-3. 狂徒
-4. 狂人
+1. 緣故
+2. 着想
+3. 清酒
+4. 為了
+5. 起見
+6. 份
 ==================
-1. She was driving like a maniac.
-2. He's a manga maniac.
-3. She's a maniac, maniac on the floor / And she's dancing like she never danced before
+1. For the sake of argument
+2. For old times' sake
+3. 2005, Plato, Sophist. Translation by Lesley Brown. 242a-b.
+But it will be for your sake that we'll undertake to refute this thesis, […]
 
 
-*prevalent
-**/ˈprevələnt/
+*universality
+**/ˌjuːnɪvɜːˈsæləti/
+==================
+NOUN.
+1. 普遍性
+2. 通用性
+3. 普適性
+4. 廣泛性
+5. 共性
+6. 普及
+7. 具有普遍性
+8. 普世
+==================
+1. Universality is denied to nature, and only the supersensible, that is, nonnature, is the realm of the universal.
+2. Its unconditionality is maintained in the act of willing only if it wills according to the universality of law, thereby transcending the conditioning effects of subjective inclinations.
+3. Because the selflike (selbstische) universality, the subjective One (Bins) of the individuality, does not separate itself from the real particularization but is only submerged in it, …
+
+
+*unprecedented
+**/ʌnˈpresɪdentɪd/
 ==================
 ADJ.
-1. 普遍
-2. 盛行
-3. 流行
+1. 前所未有
+2. 空前
+3. 史無前例
+4. 空前絕後
+5. 從未有過
+6. 先例
 ==================
-1. [In] May, there was, at London and in its neighbourhood, a disease very epidemic, though not fatal, which had some time before been very prevalent both in Italy and Germany.
-2. The species I found to be most prevalent on the Spring Green study site were compared with lists of prevalents in compositionally related communities of Wisconsin developed by Curtis (1959).
-3. On average, blues and other dilutes have weaker coats and skin problems seem more prevalent in the dilutes.
+1. On October 6, 1927, Warner Bros. released The Jazz Singer, the first sound-synched feature film, prompting a technological shift of unprecedented speed and unstoppable force. Within two years, nearly every studio release was a talkie.
+2. the invading host that had sailed from Hellas in more than one thousand ships was of an unprecedented size.
+3. Ecologists say the months of intense and unprecedented fires will almost certainly push several species to extinction.
 
 
-*provoke
-**/prəˈvəʊk/
-==================
-VERB.
-1. 挑起
-2. 惹
-3. 招惹
-4. 激怒
-5. 挑釁
-6. 激起
-==================
-1. Not that the doctor was a bully, or even pugnacious, in the usual sense of the word
-2. he had no disposition to provoke a fight, no propense love of quarrelling.
-3. They rightly say that attacks against prostitute women are common and that it's only when five are murdered in one place that it starts to provoke debate.
-4. Don't provoke the dog
-5. it may try to bite you.
-
-
-*saudi
-**/ˈsaʊdi/
-==================
-ADJ.
-1. 沙特
-2. 沙特阿拉伯
-==================
-1. The agal he wore on his head gave him away as a Saudi.
-2. June 22 2008, Sebastian Abbot, Oil minister: Saudi willing to increase crude output, Associated Press:
-3. 2000, Thomas C. Barger, Timothy J. Barger, Out in the Blue: Letters from Arabia, 1937 to 1940 : a Young American Geologist Explores the Deserts of Early Saudi Arabia, →ISBN:
-
-
-*sectarianism
-**/sekˈteəriənɪzəm/
-==================
-NOUN.
-1. 宗派主義
-==================
-1. They were discussing sectarianism between Shias and Sunnis.
-2. In Lebanese sectarianism, one half of the members of parliament are Christians and the other half are Muslims.
-3. The entire path (Dhamma) is a universal remedy for universal problems and has nothing to do with any organized religion or sectarianism.
-
-
-*tabular
-**/ˈtæbjələ(r)/
-==================
-ADJ.
-1. 表格
-==================
-1. Dark brown to black
-2. streak brownish red
-3. fracture shelllike
-4. crystals equidimensional to tabular, also in rounded and scaly masses...
-5. It should be noted that the first and the second method is well suited for both ordinary text and for tabular data.
-6. This is due to the formation of a smaller code compared to the tabular one.
-
-
-*tragic
-**/ˈtrædʒɪk/
-==================
-ADJ.
-1. 悲劇
-2. 悲慘
-3. 悲劇性
-4. 悲壯
-5. 慘烈
-6. 悲情
-7. 可悲
-8. 不幸
-9. 慘
-==================
-1. 14 February 2008, “Search for tragic Madeleine McCann over”, in The Daily Telegraph, Australia:
-2. That dress is tragic.
-3. He's pretty tragic these days, hanging out with people half his age.
-
-
-*trail
-**/treɪl/
-==================
-NOUN.
-1. 蹤跡
-2. 線索
-3. 小道
-4. 足跡
-5. 小徑
-6. 痕跡
-7. 徑
-8. 軌跡
-9. 追蹤
-==================
-1. You'll get your coat all muddy if you trail it around like that.
-2. Even now I behold a sign, A threatening of wrath divine, A watery, wandering star, through whose streaming hair, and the white Unfolding garments of light, That trail behind it afar, The constellations shine!
-3. trail of blood
-
-
-*tweak
-**/twiːk/
+*urge
+**/ɜːdʒ/
 ==================
 VERB.
-1. 調整
-2. 微調
+1. 促請
+2. 敦促
+3. 懇請
+4. 督促
+5. 促使
+6. 勸
 NOUN.
-1. 捏
+1. 呼籲
+2. 衝動
+3. 慾望
 ==================
-1. to tweak the nose.
-2. If we tweak the colors towards blue, it will look more natural.
-3. “Russia needs leadership and he knows how to tweak people.” He grinned, “He made a convert of me,” chuckling. “I wanted to lead him by the hand, now I follow him like a puppy dog.”
+1. After seeing the advert for a soft drink, I had a sudden urge to buy a bottle.
+2. to urge an argument
+3. to urge the necessity of a case
+4. to urge an ore with intense heat
 
 
-*twiddle
-**/ˈtwɪdl/
+*vitality
+**/vaɪˈtæləti/
+==================
+NOUN.
+1. 生命力
+2. 活力
+3. 生機
+4. 勃勃生機
+5. 朝氣
+6. 生機盎然
+7. 生機勃勃
+8. 朝氣蓬勃
+9. 充滿活力
+==================
+1. The educated man of the twentieth century is not anaemic, languishing in a washed-out, wan vitality.
+2. It was, however, in the Puritan movement in England, and in similar movements on the continent — especially the Bohemian Brethren — that chiliasm asserted its greatest vitality as an historical force.
+3. lower one's vitality
+
+
+*vulgar
+**/ˈvʌlɡə(r)/
 ==================
 ADJ.
-1. 旋轉
+1. 庸俗
+2. 粗俗
+3. 低俗
+4. 俗
+5. 粗鄙
+6. 低級趣味
+7. 俗氣
+8. 低級
 ==================
-1. the twiddle factor, and
-2. He put away the reciever with receiver with a twiddle of pudgy fingers.
-3. Instead, flagellar motion causes the bacterium to swim smoothly (called a run), then stop and tumble (a twiddle), followed by another period of smooth swimming
-4. A raised white brow in my direction, and a twiddle of the pipe stem toward the trail indicated that his wife was at our house, if that's who I was looking for.
-
-
-*twofold
-**/ˈtuːfəʊld/
-==================
-ADJ.
-1. 雙重
-2. 兩重
-==================
-1. The wheat produced a twofold harvest.
-2. a twofold nature
-3. a twofold sense
-4. a twofold argument
-5. It is the tale of Ixion's twofold guilt, unnatural murder and unlawful love.
-
-
-*wagon
-**/ˈwæɡən/
-==================
-NOUN.
-1. 旅行車
-2. 車皮
-3. 馬車
-4. 貨車
-5. 運貨車
-6. 槽車
-7. 戒酒
-8. 輛馬車
-9. 大車
-==================
-1. The waiters wore red jackets with black lapels, in summer white jackets with green lapels. There was a roast beef wagon. A pastry section in the huge kitchen.
-2. I began as a patrol officer, working the wagon, squad car, and three-wheelers until 1963, when I took the detective exam.
-3. Well fuck yeh, yeh stuck-up little wagon.
-
-
-*zodiac
-**/ˈzəʊdiæk/
-==================
-NOUN.
-1. 黃道帶
-2. 生肖
-3. 十二生肖
-4. 黃道
-5. 星座
-6. 屬相
-7. 黃道十二宮
-8. 宮
-==================
-1. The moon's path lies in that belt of the heavens known as the zodiac.
-2. Of all the zodiac signs, Sagittarius is the least likely to rush into a commitment. They think romance should always be an adventure, and it takes a lot for them to DTR.
-3. Such a comparatively unremunerative occupation as that of carrying a few score head of cattle six times a year from Port Zodiac to Port Marivelles was not worth a ship-owner's thought […]
+1. vulgar language
+2. vulgar words
+3. a truly vulgar showing of affection
 
