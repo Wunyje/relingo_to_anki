@@ -1,399 +1,99 @@
-*implication
-** /ˌɪmplɪˈkeɪʃn/
-==================
-NOUN.
-1. 意藴
-2. 藴涵
-3. 含義
-4. 涵義
-5. 寓意
-6. 啓示
-7. 含意
-8. 意義
-9. 內涵
-10. 暗示
-==================
-1. The implication is that the Gandhian model of growth is possible, now that Nehru's investment strategy had already laid a strong foundation for economic growth.
-2. We use "coprophagy" as the simplest available general term to describe ingestion of the feces, without any implication of cause, circumstances, or the origin or nature of fecal material consumed.
-3. Gradually the implication of biblical monotheism created an entailment of singularity and monogamy in sexual relations.
-
-
-*in line with
-**/NON/
-==================
-1. 符合
-2. 與...一致
-==================
-NON
-
-
-*indefinitely
-**/ɪnˈdefɪnətli/
-==================
-ADV.
-1. 無限期
-2. 無限期地
-3. 無止境
-4. 無限
-5. 無限制
-6. 説不定
-==================
-1. an indefinitely determined fossil
-2. Latex paint won't keep indefinitely.
-
-
-*inference
-**/ˈɪnfərəns/
-==================
-NOUN.
-1. 推理
-2. 推斷
-3. 推論
-4. 推導
-5. 推定
-6. 論斷
-==================
-1. Spector (2006, 2007) suggests to derive this inference as a scalar implicature.
-2. The Indians, making a hasty inference from a trivial phenomenon, arrived unawares at a probably correct conclusion.
-3. If there be no prospect beyond the grave, the inference is certainly right, "Let us eat and drink, for to-morrow we die."
-
-
-*materialism
-**/məˈtɪəriəlɪzəm/
-==================
-NOUN.
-1. 唯物主義
-2. 唯物論
-3. 唯物史觀
-4. 唯物
-5. 拜金主義
-==================
-1. As with Deism and Materialism, the German Rationalism invaded the department of Biblical exegesis.
-2. What is called spiritualism should, I think, be called a mental species of materialism.
-3. […] is it not melancholy to hear a man like Steffens somniloquise in such a mystifying cant of Hylozoism, of Pickism, a hodge-podge of the grossest materialism, and the most fantastic yet maudlin moonery?
-
-
-*monarchy
-**/ˈmɒnəki/
-==================
-NOUN.
-1. 君主制
-2. 君主政體
-3. 帝制
-4. 君主
-==================
-1. An absolute monarchy is a monarchy where the monarch is legally the ultimate authority in all temporal matters.
-2. The arms of Upland were a "golden apple," or globe, surrounded with a belt, in allusion to the monarchy.
-3. In ſhort, the Rebellion had been Cruſh'd in the Egg
-4. and One Seaſonable Act of Rigour, had Sav'd the King, the Monarchy, the Church, and the Three Kingdoms.
-
-
-*negation
-**/nɪˈɡeɪʃn/
-==================
-NOUN.
-1. 否定
-2. 否定之否定
-==================
-1. Negation is a unary operation.
-2. You get the negation of a proposition if you insert "not" (or some equivalent expression) into it in such a way as to form a contradictory of it.
-3. This negation has sometimes been no less “annihilationist” than classical anti-Semitism, because, at least potentially, it serves to justify the elimination of the State of Israel.
-
-
-*nuance
-**/ˈnjuːɑːns/
-==================
-NOUN.
-1. 細微差別
-2. 細微之處
-3. 細微
-==================
-1. Even with the nuance, the vote was a momentous step for a church that has been mired in intrafactional warfare over homosexuality for more than a decade.
-2. If we look at it in this way, the requirement of red-handedness sinks somewhat into the background, and the expression acquires a rather different nuance: furtum manifestum means a clearly-proven theft.
-3. When it came to food, Melissa preferred subtle nuance and lighthanded seasoning.
-
-
-*part_and_parcel
-**/NON/
-==================
-PHRASE
-1. . 不可或缺的一部分
-==================
-1. NON
-
-
-*particularity
-**/pəˌtɪkjəˈlærəti/
-==================
-NOUN.
-1. 特殊性
-2. 特質
-==================
-1. Donny’s obsession for trains is just a harmless particularity of his.
-2. The one thing left to serve as the cause of its particularity is the fact of its yonderness, i. e., the fact that it has a particular spatial and temporal meaning.
-3. This "particularity" is not absolute, and it must be a temporarily "footing."
-
-
-*permeate
-**/ˈpɜːmieɪt/
-==================
-VERB.
-1. 滲透
-2. 滲入
-==================
-1. Hence the vapor, so useful in expanding the compressed tissues and enabling the air to permeate and expand the contracted parenchyma in consumption, causes a sensation of great fatigue in asthma.
-2. For Groddeck, the it is given, unknowable, and he does not try to conceptualize drives or forces. Early life and sexuality permeate […]
-3. "Pick up your toys" takes a parental blowhorn to permeate the brain of a young child.
-
-
-*plausible
-**/ˈplɔːzəbl/
+*aesthetic
+**/iːsˈθetɪk/
 ==================
 ADJ.
-1. 似是而非
-2. 可信
-3. 合理
-4. 花言巧語
-5. 有理
-6. 合乎情理
-7. 似然
+1. 審美
+2. 美學
+3. 美感
+4. 唯美
+5. 審美觀
+6. 美觀
+7. 美育
+8. 美容
 ==================
-1. a plausible excuse
-2. a plausible pretext
-3. plausible manners
-4. a plausible delusion
-5. […] a coachman named Richard, who was described as a "sensible, well-behaved yellow boy, who is plausible and can read and write."
+1. The station was rebuilt yet again by British Rail in 1967, when large chunks of the 19th century station were demolished and replaced with 'modern' buildings that were less than aesthetic.
+2. It works well enough, but the shabby exterior offends his aesthetic sensibilities.
+3. The design of the lobby cannot be considered particularly aesthetic.
 
 
-*postulate
-**/ˈpɒstʃəleɪt/
+*antithesis
+**/ænˈtɪθəsɪs/
 ==================
 NOUN.
-1. 公設
-2. 假設
+1. 對立面
+2. 對仗
+3. 對偶
+4. 對立
+5. 恰恰相反
 ==================
-1. [T]he attempt to arrive at a physical explanation of existence led the Ionian thinkers to postulate various primal elements or simply the infinite τὸ ἀπειρον.
-2. Other studies postulate that dogs practice coprophagy in an attempt to conserve digestive enzymes, in particular protelytic enzymes and amylase (McCuistion, 1966).
-3. Some postulate that after a nuclear war, humanity would fall into a state of barbarianism.
+1. Eric Reed was a curious choice as pianist, since his busy Petersonian attack is the antithesis of Lewis's, but he acquitted himself with panache, […]
+2. In its largest dimension the dual theme of the novella is an historical antithesis: two ages, two Zeitgeister stand tensely opposed to each other in the painful period of transition.
+3. Whether spiritualist or animalist, Baudelaire's representations of sexuality establish contradictions and raise questions that both exemplify the author's dualistic thinking and reveal the unravelling of antithesis in his work.
 
 
-*profound
-**/prəˈfaʊnd/
+*bourgeoisie
+**/ˌbɔːʒ.wɑːˈziː/
+==================
+NOUN.
+1. 資產階級
+2. 中產階級
+==================
+1. Even some members of the new bourgeoisie indulge in conspicuously boorish behavior, like hawking phlegm onto the pavement or picking their noses at business meetings.
+2. In sum, the subject’s paternal family was of very haute black bourgeoisie origins, upper civil service, in Antigua.
+3. [W. B. Yeats] belonged not to the ascendancy class but to the protestant bourgeoisie.
+
+
+*immutable
+**/ɪˈmjuːtəbl/
 ==================
 ADJ.
-1. 深刻
-2. 深遠
-3. 深厚
-4. 博大精深
-5. 淵博
-6. 深邃
-7. 意義深遠
-8. 深奧
-9. 深層次
-10. 深入
-11. 深層
+1. 一成不變
+2. 變
 ==================
-1. a profound investigation
-2. a profound scholar
-3. profound wisdom
+1. The government has enacted an immutable law.
+2. Constants are immutable.
+3. A record is a special kind of class that's designed to work well with immutable (readonly) data.
 
 
-*proposition
-**/ˌprɒpəˈzɪʃn/
-==================
-NOUN.
-1. 命題
-2. 主張
-3. 提議
-4. 論題
-5. 構想
-==================
-1. For example, one-part versions of the proposition "The doctor pursued the lawyer" were "The doctor verbed the object," ...
-2. Our English nouns remain unchanged, whether they form the subject or the object of a proposition.
-3. “Wiktionary is a good dictionary” is a proposition.
-
-
-*protract
-**/prəˈtrækt/
-==================
-NOUN.
-1. 繪製
-==================
-1. A cat can protract and retract its claws.
-2. to protract a decision or duty
-3. Then, since I’m sure to meet my Fate,
-How vain would Hope appear?
-Since Fear cannot protract the Date,
-How foolish ’twere to fear?
-
-
-*redundant
-**/rɪˈdʌndənt/
+*metaphysical
+**/ˌmetəˈfɪzɪkl/
 ==================
 ADJ.
-1. 冗餘
-2. 多餘
-3. 重複
-4. 超額
-NOUN.
-1. 冗餘度
-2. 冗
-3. 累贅
+1. 形而上學
+2. 玄學
+3. 思想性
 ==================
-1. In the living state, the body is observed to receive aliment
-2. to assimilate a part
-3. to evacuate what is redundant or useless
-4. …
-5. Four employees were made redundant.
-6. The two lines are mainly used for redundant and therefore fault-tolerant message transmission, but they can also transmit different messages.
+1. Qu. 8. Whether the Notions of absolute Time, absolute Place, and absolute Motion be not most abstractedly Metaphysical? Whether it be possible for us to measure, compute, or know them?
+2. …and others, accustomed to retired speculations, run natural philosophy into metaphysical notions and the abstract generalities of logic
+3. 
+4. During his run from the police, he claimed to have a metaphysical experience which can only be described as “having passed through an abyss.”
 
 
-*refurbish
-**/ˌriːˈfɜːbɪʃ/
-==================
-1. X. 再磨光
-2. 刷新
-==================
-1. An RPS is a network of transportation logistics and processing functions that collect, recycle, refurbish, and demanufacture end-of-life products.
-2. Early firees Bradford and Stacie J. returned, and the teams competed to see which could refurbish a house better to improve its value on the market.
-3. The Highways Agency plan to close J10 of the M5 to refurbish the motorway bridge.
-
-
-*render
-**/ˈrendə(r)/
+*proletariat
+**/ˌprəʊ.lɪˈteə.ri.ət/
 ==================
 NOUN.
-1. 渲染
-VERB.
-1. 呈現
+1. 無產階級
+2. 無產者
+3. 無產階級專政
+4. 工人階級
 ==================
-1. we may, at last, render our philosophy like that of Epictetus
-2. to render Latin into English
-3. render a verdict (i.e., deliver a judgment)
+1. Communism envisioned […] an Authority Ranking of political control (in theory, the dictatorship of the proletariat
+2. in practice, a nomenklatura of commissars under a charismatic dictator).
+3. In other words, the workers will overthrow the capitalistic class and establish a so-called dictatorship of the proletariat, which will finally become a classless society.
+4. There is plebs in bodies, in souls, in individuals, in the proletariat, in the bourgeoisie, but everywhere in a diversity of forms and extensions, of energies and irreducibilities.
 
 
-*repository
-**/rɪˈpɒzətri/
-==================
-NOUN.
-1. 存儲庫
-2. 儲存庫
-3. 知識庫
-4. 庫
-5. 倉庫
-6. 信息庫
-7. 資料庫
-==================
-1. Any number of people can be reading from a given repository at a time.
-2. This simulation aims at describing the hydrological conditions at a Swedish deep repository of nuclear waste during a glaciation.
-3. In this model, anyone can fork an existing repository and push changes to their personal fork.
-
-
-*sake
-**/seɪk/
-==================
-NOUN.
-1. 緣故
-2. 着想
-3. 清酒
-4. 為了
-5. 起見
-6. 份
-==================
-1. For the sake of argument
-2. For old times' sake
-3. 2005, Plato, Sophist. Translation by Lesley Brown. 242a-b.
-But it will be for your sake that we'll undertake to refute this thesis, […]
-
-
-*universality
-**/ˌjuːnɪvɜːˈsæləti/
-==================
-NOUN.
-1. 普遍性
-2. 通用性
-3. 普適性
-4. 廣泛性
-5. 共性
-6. 普及
-7. 具有普遍性
-8. 普世
-==================
-1. Universality is denied to nature, and only the supersensible, that is, nonnature, is the realm of the universal.
-2. Its unconditionality is maintained in the act of willing only if it wills according to the universality of law, thereby transcending the conditioning effects of subjective inclinations.
-3. Because the selflike (selbstische) universality, the subjective One (Bins) of the individuality, does not separate itself from the real particularization but is only submerged in it, …
-
-
-*unprecedented
-**/ʌnˈpresɪdentɪd/
+*reactionary
+**/riˈækʃənri/
 ==================
 ADJ.
-1. 前所未有
-2. 空前
-3. 史無前例
-4. 空前絕後
-5. 從未有過
-6. 先例
-==================
-1. On October 6, 1927, Warner Bros. released The Jazz Singer, the first sound-synched feature film, prompting a technological shift of unprecedented speed and unstoppable force. Within two years, nearly every studio release was a talkie.
-2. the invading host that had sailed from Hellas in more than one thousand ships was of an unprecedented size.
-3. Ecologists say the months of intense and unprecedented fires will almost certainly push several species to extinction.
-
-
-*urge
-**/ɜːdʒ/
-==================
-VERB.
-1. 促請
-2. 敦促
-3. 懇請
-4. 督促
-5. 促使
-6. 勸
+1. 反動
+2. 反作用
 NOUN.
-1. 呼籲
-2. 衝動
-3. 慾望
+1. 反動分子
 ==================
-1. After seeing the advert for a soft drink, I had a sudden urge to buy a bottle.
-2. to urge an argument
-3. to urge the necessity of a case
-4. to urge an ore with intense heat
-
-
-*vitality
-**/vaɪˈtæləti/
-==================
-NOUN.
-1. 生命力
-2. 活力
-3. 生機
-4. 勃勃生機
-5. 朝氣
-6. 生機盎然
-7. 生機勃勃
-8. 朝氣蓬勃
-9. 充滿活力
-==================
-1. The educated man of the twentieth century is not anaemic, languishing in a washed-out, wan vitality.
-2. It was, however, in the Puritan movement in England, and in similar movements on the continent — especially the Bohemian Brethren — that chiliasm asserted its greatest vitality as an historical force.
-3. lower one's vitality
-
-
-*vulgar
-**/ˈvʌlɡə(r)/
-==================
-ADJ.
-1. 庸俗
-2. 粗俗
-3. 低俗
-4. 俗
-5. 粗鄙
-6. 低級趣味
-7. 俗氣
-8. 低級
-==================
-1. vulgar language
-2. vulgar words
-3. a truly vulgar showing of affection
+1. The fear of being "dotcommed” was a powerful catalyst creating a reactionary environment.
+2. [Jeffrey] Epstein was interested in transhumanism, a theory of human perfection via technological manipulation that—like its predecessor, eugenics—is shot through with racist and reactionary ideas.
+3. The regulator noted that reduced service levels and passenger numbers helped deliver strong performance, with fewer reactionary delays.
 
