@@ -1,99 +1,145 @@
-*aesthetic
-**/iːsˈθetɪk/
-==================
-ADJ.
-1. 審美
-2. 美學
-3. 美感
-4. 唯美
-5. 審美觀
-6. 美觀
-7. 美育
-8. 美容
-==================
-1. The station was rebuilt yet again by British Rail in 1967, when large chunks of the 19th century station were demolished and replaced with 'modern' buildings that were less than aesthetic.
-2. It works well enough, but the shabby exterior offends his aesthetic sensibilities.
-3. The design of the lobby cannot be considered particularly aesthetic.
-
-
-*antithesis
-**/ænˈtɪθəsɪs/
+*anesthesia
+**/ˌænəsˈθiːziə/
 ==================
 NOUN.
-1. 對立面
-2. 對仗
-3. 對偶
-4. 對立
-5. 恰恰相反
+1. 麻醉
+2. 複合麻醉
+3. 麻醉劑
+4. 麻
+5. 阻滯
+6. 全麻
 ==================
-1. Eric Reed was a curious choice as pianist, since his busy Petersonian attack is the antithesis of Lewis's, but he acquitted himself with panache, […]
-2. In its largest dimension the dual theme of the novella is an historical antithesis: two ages, two Zeitgeister stand tensely opposed to each other in the painful period of transition.
-3. Whether spiritualist or animalist, Baudelaire's representations of sexuality establish contradictions and raise questions that both exemplify the author's dualistic thinking and reveal the unravelling of antithesis in his work.
+1. General anesthesia may decrease the functional residual capacity (FRC) for up to 1 to 2 weeks postoperatively.
+2. light sleep
+3. light anesthesia
+4. The patient didn't want to be sedated, so we applied only local anesthesia.
 
 
-*bourgeoisie
-**/ˌbɔːʒ.wɑːˈziː/
+*circumcision
+**/ˌsɜːkəmˈsɪʒn/
 ==================
 NOUN.
-1. 資產階級
-2. 中產階級
+1. 包皮環切
+2. 割禮
+3. 包皮環切術
+4. 割包皮
+5. 包皮
 ==================
-1. Even some members of the new bourgeoisie indulge in conspicuously boorish behavior, like hawking phlegm onto the pavement or picking their noses at business meetings.
-2. In sum, the subject’s paternal family was of very haute black bourgeoisie origins, upper civil service, in Antigua.
-3. [W. B. Yeats] belonged not to the ascendancy class but to the protestant bourgeoisie.
+1. After all, Jehovah had instituted the rite of circumcision in which the clipped penis became consecrated to him, […]
+2. Circumcision ’s effect on sex is a white-hot issue in the United States for the small but vocal anticircumcision lobby.
+3. But this [ban on circumcision] must have been a provocation, as the emperor Antoninus Pius later acknowledged by excepting the Jews.
 
 
-*immutable
-**/ɪˈmjuːtəbl/
+*coincide
+**/ˌkəʊɪnˈsaɪd/
 ==================
-ADJ.
-1. 一成不變
-2. 變
+VERB.
+1. 重合
+2. 一致
+NOUN.
+1. 相吻合
 ==================
-1. The government has enacted an immutable law.
-2. Constants are immutable.
-3. A record is a special kind of class that's designed to work well with immutable (readonly) data.
+1. The two squares coincide nicely.
+2. The conference will coincide with his vacation.
+3. Our ideas coincide, except in certain areas.
 
 
-*metaphysical
-**/ˌmetəˈfɪzɪkl/
-==================
-ADJ.
-1. 形而上學
-2. 玄學
-3. 思想性
-==================
-1. Qu. 8. Whether the Notions of absolute Time, absolute Place, and absolute Motion be not most abstractedly Metaphysical? Whether it be possible for us to measure, compute, or know them?
-2. …and others, accustomed to retired speculations, run natural philosophy into metaphysical notions and the abstract generalities of logic
-3. 
-4. During his run from the police, he claimed to have a metaphysical experience which can only be described as “having passed through an abyss.”
-
-
-*proletariat
-**/ˌprəʊ.lɪˈteə.ri.ət/
+*concatenation
+**/kənˌkætəˈneɪʃn/
 ==================
 NOUN.
-1. 無產階級
-2. 無產者
-3. 無產階級專政
-4. 工人階級
+1. 串聯
+2. 串連
+3. 拼接
+4. 級聯
 ==================
-1. Communism envisioned […] an Authority Ranking of political control (in theory, the dictatorship of the proletariat
-2. in practice, a nomenklatura of commissars under a charismatic dictator).
-3. In other words, the workers will overthrow the capitalistic class and establish a so-called dictatorship of the proletariat, which will finally become a classless society.
-4. There is plebs in bodies, in souls, in individuals, in the proletariat, in the bourgeoisie, but everywhere in a diversity of forms and extensions, of energies and irreducibilities.
+1. A fundamental operation on strings is string concatenation which we will denote by juxtaposition.
+2. The genius of Puritanism, with all its forefixed concatenation of misdeeds and punishments, had served me out properly.
+3. Appending items one at a time is still a better deal than concatenation, which reallocates every time.
 
 
-*reactionary
-**/riˈækʃənri/
+*foreskin
+**/ˈfɔːskɪn/
+==================
+NOUN.
+1. 包皮
+==================
+1. The female clitoral hood is homologous with the foreskin.
+2. In primates, the foreskin is present in the genitalia of both sexes and likely has been present for millions of years of evolution.
+3. the foreskin is a primary sensory part of the penis, containing some of the most sensitive areas of the penis
+
+
+*heinous
+**/ˈheɪnəs/
 ==================
 ADJ.
-1. 反動
-2. 反作用
-NOUN.
-1. 反動分子
+1. 令人髮指
+2. 十惡不赦
+3. 可憎
+4. 可恨
 ==================
-1. The fear of being "dotcommed” was a powerful catalyst creating a reactionary environment.
-2. [Jeffrey] Epstein was interested in transhumanism, a theory of human perfection via technological manipulation that—like its predecessor, eugenics—is shot through with racist and reactionary ideas.
-3. The regulator noted that reduced service levels and passenger numbers helped deliver strong performance, with fewer reactionary delays.
+1. I hope they catch the person responsible for that heinous crime.
+2. The perpetrators of this heinous act must be brought to justice.
+3. Perhaps burdened by the weight of history, talk of the heinous 2-2 draw in 2002, or the magnitude of the fixture, Scotland seemed spooked in the early throes.
+
+
+*machete
+**/məˈʃeti/
+==================
+NOUN.
+1. 彎刀
+2. 砍刀
+==================
+1. You can't just machete about with a rapier and expect to succeed
+2. you need to thrust properly.
+3. (A normal person with a machete in her tumtum, that is.)
+4. Remember that crazy-funny fake trailer for the nonexistent ’70s Mexploitation flick Machete that preceded the “Planet Terror” segment of Grindhouse a few years back?
+
+
+*parcel
+**/ˈpɑːsl/
+==================
+NOUN.
+1. 包裹
+2. 包裹寄
+3. 郵包
+4. 地塊
+5. 不可或缺
+==================
+1. I saw a brown paper parcel on my doorstep.
+2. I own a small parcel of land between the refinery and the fish cannery.
+3. A certain piece of land is part and parcel of another piece.
+
+
+*ridicule
+**/ˈrɪdɪkjuːl/
+==================
+NOUN.
+1. 嘲笑
+2. 調侃
+3. 嘲弄
+4. 奚落
+5. 嘲諷
+6. 嬉笑怒罵
+VERB.
+1. 譏笑
+==================
+1. Safe from the Bar, the Pulpit, and the Throne, / Yet touch'd and sham'd by Ridicule alone.
+2. [Marlborough] was so miserably ignorant, that his deficiencies made him the ridicule of his contemporaries.
+3. late 17th century, John Aubrey, Brief Lives
+This action […] became so ridicule.
+
+
+*rite
+**/raɪt/
+==================
+NOUN.
+1. 儀式
+2. 禮儀
+3. 禮
+4. 禮樂
+==================
+1. He's rite, you know.
+2. It's rite next to my house.
+3. Rite, let's do it.
 
