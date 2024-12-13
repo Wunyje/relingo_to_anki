@@ -1,145 +1,71 @@
-*anesthesia
-**/ˌænəsˈθiːziə/
+*along the lines of
+**NONE
+==================
+1. ADP. 類似的
+==================
+1. You stated in a comment above that your dataframe is defined along the lines of df = df_all.loc[df_all['issueid']==specific_id,:].
+
+
+*circuitry
+**/ˈsɜːkɪtri/
 ==================
 NOUN.
-1. 麻醉
-2. 複合麻醉
-3. 麻醉劑
-4. 麻
-5. 阻滯
-6. 全麻
+1. 電路
+2. 線路
+3. 迴路
+4. 電路圖
 ==================
-1. General anesthesia may decrease the functional residual capacity (FRC) for up to 1 to 2 weeks postoperatively.
-2. light sleep
-3. light anesthesia
-4. The patient didn't want to be sedated, so we applied only local anesthesia.
+1. The circuitry traversed by the source clock from its source point to the startpoint of the datapath.
+2. After jettison of nose cap, all the detector circuitry became exposed to the radiation environment.
+3. Telemetering transmitter removed from its pressurized container. The circuitry for each of the 23 channels can be quickly unplugged for servicing.
+4. Since [Santiago Ramón y] Cajal's neural circuitry did not include inhibitory cells, he believed that short-axoned cells were important in maintaining a continuous and persistent activity in neural centers.
 
 
-*circumcision
-**/ˌsɜːkəmˈsɪʒn/
-==================
-NOUN.
-1. 包皮環切
-2. 割禮
-3. 包皮環切術
-4. 割包皮
-5. 包皮
-==================
-1. After all, Jehovah had instituted the rite of circumcision in which the clipped penis became consecrated to him, […]
-2. Circumcision ’s effect on sex is a white-hot issue in the United States for the small but vocal anticircumcision lobby.
-3. But this [ban on circumcision] must have been a provocation, as the emperor Antoninus Pius later acknowledged by excepting the Jews.
-
-
-*coincide
-**/ˌkəʊɪnˈsaɪd/
-==================
-VERB.
-1. 重合
-2. 一致
-NOUN.
-1. 相吻合
-==================
-1. The two squares coincide nicely.
-2. The conference will coincide with his vacation.
-3. Our ideas coincide, except in certain areas.
-
-
-*concatenation
-**/kənˌkætəˈneɪʃn/
-==================
-NOUN.
-1. 串聯
-2. 串連
-3. 拼接
-4. 級聯
-==================
-1. A fundamental operation on strings is string concatenation which we will denote by juxtaposition.
-2. The genius of Puritanism, with all its forefixed concatenation of misdeeds and punishments, had served me out properly.
-3. Appending items one at a time is still a better deal than concatenation, which reallocates every time.
-
-
-*foreskin
-**/ˈfɔːskɪn/
-==================
-NOUN.
-1. 包皮
-==================
-1. The female clitoral hood is homologous with the foreskin.
-2. In primates, the foreskin is present in the genitalia of both sexes and likely has been present for millions of years of evolution.
-3. the foreskin is a primary sensory part of the penis, containing some of the most sensitive areas of the penis
-
-
-*heinous
-**/ˈheɪnəs/
+*heterogeneous
+**/ˌhetərəˈdʒiːniəs/
 ==================
 ADJ.
-1. 令人髮指
-2. 十惡不赦
-3. 可憎
-4. 可恨
+1. 異構
+2. 異質
+3. 非均質
+4. 異類
+5. 非均勻
+6. 異質性
+7. 異
 ==================
-1. I hope they catch the person responsible for that heinous crime.
-2. The perpetrators of this heinous act must be brought to justice.
-3. Perhaps burdened by the weight of history, talk of the heinous 2-2 draw in 2002, or the magnitude of the fixture, Scotland seemed spooked in the early throes.
+1. Suggests combining multidimensional reconfigurable and heterogeneous architectures for enhanced flexibility.
+2. He had a large and heterogeneous collection of books.
+3. With a vague curiosity I began to trace the outline of some of the heterogeneous impressions, trying meanwhile to curb the flights of macabre fancy which the place and its memories suggested.
+4. Including both factual and fictional books would have reduced the value of the study
+5. it would have made the content too heterogeneous for the drawing of significant conclusions.
 
 
-*machete
-**/məˈʃeti/
-==================
-NOUN.
-1. 彎刀
-2. 砍刀
-==================
-1. You can't just machete about with a rapier and expect to succeed
-2. you need to thrust properly.
-3. (A normal person with a machete in her tumtum, that is.)
-4. Remember that crazy-funny fake trailer for the nonexistent ’70s Mexploitation flick Machete that preceded the “Planet Terror” segment of Grindhouse a few years back?
-
-
-*parcel
-**/ˈpɑːsl/
+*quartet
+**/kwɔːˈtet/
 ==================
 NOUN.
-1. 包裹
-2. 包裹寄
-3. 郵包
-4. 地塊
-5. 不可或缺
+1. 四方
+2. 四重奏
+3. 重唱
+4. 絃樂四重奏
 ==================
-1. I saw a brown paper parcel on my doorstep.
-2. I own a small parcel of land between the refinery and the fish cannery.
-3. A certain piece of land is part and parcel of another piece.
+1. The string quartet played some chamber music.
+2. He composed a string quartet.
+3. The barbershop quartet performed the composition a capella.
 
 
-*ridicule
-**/ˈrɪdɪkjuːl/
+*traverse
+**/trəˈvɜːs/
 ==================
-NOUN.
-1. 嘲笑
-2. 調侃
-3. 嘲弄
-4. 奚落
-5. 嘲諷
-6. 嬉笑怒罵
 VERB.
-1. 譏笑
-==================
-1. Safe from the Bar, the Pulpit, and the Throne, / Yet touch'd and sham'd by Ridicule alone.
-2. [Marlborough] was so miserably ignorant, that his deficiencies made him the ridicule of his contemporaries.
-3. late 17th century, John Aubrey, Brief Lives
-This action […] became so ridicule.
-
-
-*rite
-**/raɪt/
-==================
+1. 遍歷
+2. 穿越
+3. 凌
 NOUN.
-1. 儀式
-2. 禮儀
-3. 禮
-4. 禮樂
+1. 導線
+2. 特拉弗斯
 ==================
-1. He's rite, you know.
-2. It's rite next to my house.
-3. Rite, let's do it.
+1. At the entrance of the king, / The first traverse was drawn.
+2. The whole care of the vessel rested, therefore, upon me, and I was obliged to direct her by my former experience, not being able to work a traverse.
+3. He will have to traverse the mountain to get to the other side.
 
