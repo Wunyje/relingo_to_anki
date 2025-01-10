@@ -1,71 +1,176 @@
-*along the lines of
-**NONE
-==================
-1. ADP. 類似的
-==================
-1. You stated in a comment above that your dataframe is defined along the lines of df = df_all.loc[df_all['issueid']==specific_id,:].
-
-
-*circuitry
-**/ˈsɜːkɪtri/
-==================
-NOUN.
-1. 電路
-2. 線路
-3. 迴路
-4. 電路圖
-==================
-1. The circuitry traversed by the source clock from its source point to the startpoint of the datapath.
-2. After jettison of nose cap, all the detector circuitry became exposed to the radiation environment.
-3. Telemetering transmitter removed from its pressurized container. The circuitry for each of the 23 channels can be quickly unplugged for servicing.
-4. Since [Santiago Ramón y] Cajal's neural circuitry did not include inhibitory cells, he believed that short-axoned cells were important in maintaining a continuous and persistent activity in neural centers.
-
-
-*heterogeneous
-**/ˌhetərəˈdʒiːniəs/
-==================
-ADJ.
-1. 異構
-2. 異質
-3. 非均質
-4. 異類
-5. 非均勻
-6. 異質性
-7. 異
-==================
-1. Suggests combining multidimensional reconfigurable and heterogeneous architectures for enhanced flexibility.
-2. He had a large and heterogeneous collection of books.
-3. With a vague curiosity I began to trace the outline of some of the heterogeneous impressions, trying meanwhile to curb the flights of macabre fancy which the place and its memories suggested.
-4. Including both factual and fictional books would have reduced the value of the study
-5. it would have made the content too heterogeneous for the drawing of significant conclusions.
-
-
-*quartet
-**/kwɔːˈtet/
-==================
-NOUN.
-1. 四方
-2. 四重奏
-3. 重唱
-4. 絃樂四重奏
-==================
-1. The string quartet played some chamber music.
-2. He composed a string quartet.
-3. The barbershop quartet performed the composition a capella.
-
-
-*traverse
-**/trəˈvɜːs/
+*alleviate
+**/əˈliːvieɪt/
 ==================
 VERB.
-1. 遍歷
-2. 穿越
-3. 凌
-NOUN.
-1. 導線
-2. 特拉弗斯
+1. To reduce or lessen the severity of a pain or difficulty.
 ==================
-1. At the entrance of the king, / The first traverse was drawn.
-2. The whole care of the vessel rested, therefore, upon me, and I was obliged to direct her by my former experience, not being able to work a traverse.
-3. He will have to traverse the mountain to get to the other side.
+1. High-bandwidth memory (HBM) helps alleviate this bottleneck by providing more storage capacity and data bandwidth using system in package (SiP) memory technology to stack DRAM chips vertically and using a wide (1024-bit) interface.
+2. alleviate his pain
+3. Alcohol is often a cheap tool to alleviate the stress of a hard day.
+4. The visitor in Man Facing South-east claims pure altruism
+5. Rantes (Hugo Soto) wants to alleviate the suffering of the poor and helpless.
+
+
+*chromatic
+**/krəˈmætɪk/
+==================
+ADJ.
+1. Uses relating to colour
+==================
+1. The chromatic threads next arrange themselves in the equatorial plane of the nucleus, and then divide into two groups of threads, each of which forms a daughter nucleus.
+2. At the end of the prelude of Caprice V, there is a chromatic ascending and descending scale of forty-eight notes to be played in one bow in legato.
+3. More octaves ensue, followed by chromatic passagework with filigree scales.
+
+
+*consecutive
+**/kənˈsekjətɪv/
+==================
+ADJ.
+1. following, in succession, without interruption
+2. having some logical sequence
+NOUN.
+1. A sequence of notes or chords that results from repeated shifts in pitch of the same interval.
+2. A linguistic form that implies or describes an event that follows temporally from another.
+3. Consecutive interpretation.
+==================
+1. DDR4, HBM) have overhead associated with consecutive accesses to the same Bank Group
+2. He follows Frédi Kanouté, who achieved the feat in 2006 and 2007 for Sevilla, in scoring in consecutive Uefa Cup/Europa League finals.
+3. It was his 41st goal for England, making him the country's fifth highest international goalscorer and continued an incredible record of scoring in 15 consecutive World Cup and Euro qualifiers.
+4. What marks the consecutive is its special morphology and syntax indicating the temporal succession of actions.
+
+
+*fulfill
+**/fʊlˈfɪl/
+==================
+VERB.
+1. To satisfy, carry out, bring to completion (an obligation, a requirement, etc.).
+2. To emotionally or artistically satisfy
+3. to develop one's gifts to the fullest.
+4. To obey, follow, comply with (a rule, requirement etc.).
+5. To package, distribute, or ship goods.
+6. To fill full
+7. fill to the utmost capacity
+8. fill up.
+==================
+1. What role does the wax in your earhole fulfill?
+2. You made a promise, son, and now you must fulfill it.
+3. Unfortunately, you don't fulfill the criteria for extra grants at the present time.
+
+
+*hereby
+**/ˌhɪəˈbaɪ/
+==================
+ADV.
+1. Near this place
+2. nearby.
+3. By this means, action or process.
+==================
+1. I hereby abandon my position as manager.
+2. The rule of law whereby it is a crime for a person to commit suicide is hereby abrogated.
+3. I hereby declare you husband and wife.
+
+
+*mitigate
+**/ˈmɪtɪɡeɪt/
+==================
+VERB.
+1. To reduce, lessen, or decrease
+2. to make less severe or easier to bear.
+3. To downplay.
+==================
+1. Now that we know what some of the contributing factors to poor memory bandwidth let's discuss some options available to mitigate them.
+2. The absentaneous nature of the job tended to mitigate expectations of single site employment.
+3. Measures are pursuing to prevent or mitigate the usual consequences of such outrages, and with the hope of their succeeding at least to avert general hostility.
+4. Then they tell us that vaccination will mitigate the disease that it will make it milder.
+
+
+*overwhelm
+**/ˌəʊvəˈwelm/
+==================
+VERB.
+1. To engulf, surge over and submerge.
+2. To overpower, crush.
+3. To overpower emotionally.
+4. To cause to surround, to cover.
+NOUN.
+1. The state or condition of being overwhelmed.
+==================
+1. I lay Turpentine all over the same: then I overwhelm a broader pipe about the first
+2. The fact is, that full permeation and understanding of an overwhelm or trauma makes it cease as an overwhelm or trauma.
+3. And what you’re feeling is normal in a dangerous situation — overwhelm and guilt when someone is harmed.
+
+
+*pseudo
+**/sˈuːdə‍ʊ/
+==================
+NOUN.
+1. An intellectually pretentious person
+2. a pseudointellectual.
+3. A poseur
+4. one who is fake.
+5. pseudo-city code
+6. A pseudonym
+7. a false name used for online anonymity.
+8. Clipping of pseudoephedrine.
+ADJ.
+1. Other than what is apparent
+2. spurious
+3. sham.
+4. Insincere.
+==================
+1. In VU+ HBM, there is a hardened AXI Switch which enables access from any of the 32 AXI channels to any of the HBM pseudo channels and addressable memory.
+2. The telltale sign of a pseudo intellectual is the superficial sprinkling and misuse of terms like "paradigm shift" and name dropping
+3. As suggested in [3], space can be saved by using a deterministic pseudo random number generator (PRNG) and storing only the seed of that PRNG.
+4. Simple random samples were chosen from an ordered list with the aid of a Pseudo Random Digit Generator affiliated with the Computer Data Corporation Fortran Compiler.
+
+
+*revert
+**/rɪˈvɜːt/
+==================
+NOUN.
+1. One who, or that which, reverts.
+2. One who reverts to that religion which one had adhered to before having converted to another.
+3. A convert to Islam.
+4. The act of reversion (of e.g. a database transaction or source control repository) to an earlier state.
+5. The skateboard maneuver of rotating the board 180 degrees or more while the wheels remain on the ground.
+VERB.
+1. To cause to return to a former condition.
+2. To return to the possession of.
+3. To return to the possession of.
+==================
+1. Zeba Siddiqui, herself a revert and editor of the Parent's Manual: A Guide for Muslim Parents Living in North America, contributed to this book as a consultant.
+2. Parents should not reject a proposal without good reason — and being a revert with a past is not an acceptable one.
+3. When a book goes out of print, rights revert from the publisher to the author.
+
+
+*triad
+**/ˈtraɪæd/
+==================
+NOUN.
+1. A grouping of three.
+2. A word of three syllables.
+3. A branch of a Chinese underground criminal society, mostly based in Hong Kong.
+4. on a CRT display, a group of three neighbouring phosphor dots, coloured green, red, and blue.
+5. A chord consisting of a root tone, the tone two degrees higher, and the tone four degrees higher in a given scale.
+==================
+1. A triad consists of three notes stacked in consecutive thirds.
+2. And the triad is made complete by she who is violenced by him.
+3. major triad
+4. Modern harmonists are unwilling to acknowledge that the minor triad is less consonant than the major.
+
+
+*unleash
+**/ʌnˈliːʃ/
+==================
+VERB.
+1. To free from a leash, or as from a leash.
+2. To let go
+3. to release.
+4. To precipitate
+5. to bring about.
+==================
+1. Unleash your inner musician
+2. For example, the [racehorse] trainer may have tipped a betting syndicate that he is about to unleash a sleeper […]
+3. A son of Street Cry, Street Sense will break from the No. 7 post and, in theory, lope along in midpack before finding a spot near the rail to unleash a late run.
+4. So let the show begin, black femme cisters, unleash your pinks and let the show begin!
 
